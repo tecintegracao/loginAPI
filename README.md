@@ -36,3 +36,5 @@ Rotas GET:
   
   Header:
   Authorization   Bearer seuToken
+  
+ quando tudo é informado corretamente, retorna "ok": true
