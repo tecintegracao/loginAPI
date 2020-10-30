@@ -28,8 +28,10 @@ Rotas POST:
 	      "password": "123456"
       }
      
-Rotas GET
+Rotas GET:
+
   aqui é necessário cadastrar um usuário, e utilizar o token como header no formato Authorization: Bearer Token
+  
   http://localhost:3000/listUsers
   
   Header:
